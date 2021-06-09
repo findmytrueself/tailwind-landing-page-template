@@ -45,7 +45,7 @@ function Testimonials() {
             <h2 className="h2 mb-4">이력</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">
               <li>Facebook Internship</li>
-              <li>Tinder 100000 follower influencer</li>
+              <li>Tinder 100000 matching influencer</li>
               <li>Airbnb VIP customer</li>
               <li>Amazon Big Seller</li>
             </p>
