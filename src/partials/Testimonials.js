@@ -47,7 +47,8 @@ function Testimonials() {
               <li>Facebook Internship</li>
               <li>Tinder 100000 matching influencer</li>
               <li>Airbnb VIP customer</li>
-              <li>Amazon Big Seller</li>
+              <li>Amazon Top 3 Big Seller</li>
+              <li>Doge Coin 800 Floor black cow</li>
             </p>
           </div>
 
